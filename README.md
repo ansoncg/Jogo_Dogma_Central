@@ -1,6 +1,6 @@
 # Jogo Dogma Central
 
-Jogo feito em Java que tem como jogabilidades as etapas do Dogma Central da Biologia Molecular.Contém as etapas de replicação, transcrição e tradução com explicações entre elas. 
+Jogo feito em Java que tem como jogabilidades as etapas do Dogma Central da Biologia Molecular. Contém as etapas de replicação, transcrição e tradução com explicações entre elas. 
 
 Para executar use `makerun` ou `java codigo.jogo.Inicializador`.
 
