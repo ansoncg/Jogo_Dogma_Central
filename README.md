@@ -2,7 +2,7 @@
 
 Jogo feito em Java que tem como jogabilidades as etapas do Dogma Central da Biologia Molecular. Contém as etapas de replicação, transcrição e tradução com explicações entre elas. 
 
-Para executar use `makerun` ou `java codigo.jogo.Inicializador`.
+Para executar use `make run` ou `java codigo.jogo.Inicializador`.
 
 ### Menu
 ![](https://github.com/ansoncg/Jogo_Dogma_Central/blob/master/ImagensDaExecu%C3%A7%C3%A3o/inicio.png)
